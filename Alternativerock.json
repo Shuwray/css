@@ -1,8 +1,8 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "▲#AlternativeRock▲",
+    "author": "Team ▲#AlternativeRock▲",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/AlternativeRock.css",
     "rules": {
 "allowAutorespond":     true,
 "allowAutowoot":        true,
