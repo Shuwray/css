@@ -1,6 +1,6 @@
 {
     "room":                     "▲#AlternativeRock▲",
-    "author":                   "Shuwray",
+    "author":                   "Team Alternative Rock",
     "css":                      "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/AlternativeRock.css",
     "rules": {
         "allowAutorespond":     true,
@@ -15,17 +15,17 @@
     "ccc": {
         "admin":                null,
         "ambassador":           null,
-        "host":                 "#0000FF",
-        "cohost":               "#0000FF0",
-        "manager":              "#00BFFF",
-        "bouncer":              "#00BFFF",
-        "rdj":                  "#00BFFF9",
+        "host":              null,
+        "cohost":             null,
+        "manager":           null,
+        "bouncer":           null,
+        "rdj":                null,
         "subscriber":           null,
         "friend":               null,
         "user":                 null
     },
     "images": {
-        "background":           "https://i.imgur.com/RE1eerj.png",
+        "background":           null,
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
